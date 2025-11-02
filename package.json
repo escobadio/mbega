@@ -1,0 +1,13 @@
+{
+  "name": "FSE",
+  "version": "0.0.1",
+  "description": "Full-stack executables",
+  "scripts": {
+    "dev": "bun --env-file=assets/env/dev.env ./server.ts",
+    "build": "bun build --compile ./server.ts --outfile fse",
+    "exe": "bun exec './fse' --env-file=assets/env/exe.env"
+  },
+  "dependencies": {
+    
+  }
+}
