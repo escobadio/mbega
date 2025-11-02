@@ -1,0 +1,2 @@
+[serve.static] 
+ env = "ACME_PUBLIC_*" 
