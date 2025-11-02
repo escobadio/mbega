@@ -53,4 +53,21 @@ If there’s anything specific I can do — tests, examples, PRs — please just
 I’m sure others are running into the same issue, and considering how many developers are now trying Bun, this could be one of those pain points that pushes people back to Node or Deno.
 
 Let’s not make it that easy for them.
-Let’s make Bun great (Again).
+Let’s make Bun great.
+
+@alii @Jarred-Sumner 
+--------------------------------------------------
+
+### Dev Mode
+
+<img width="1159" height="847" alt="Image" src="https://github.com/user-attachments/assets/4869c8cd-3105-431b-accc-7eaedefd3e56" />
+<img width="1163" height="853" alt="Image" src="https://github.com/user-attachments/assets/cd3fb488-7da0-44c1-8027-27ef98a94f8b" />
+
+--------------------------------------------------
+
+### Exe Mode
+
+<img width="1157" height="846" alt="Image" src="https://github.com/user-attachments/assets/08ca4ac6-f57d-4122-89b4-5b89db81f3dd" />
+
+<img width="1155" height="850" alt="Image" src="https://github.com/user-attachments/assets/281d6fcb-220e-4d9e-be58-7ed269783e63" />
+<img width="1165" height="853" alt="Image" src="https://github.com/user-attachments/assets/f3125d3b-ee15-4a6a-8b03-eed831baf8c4" />
